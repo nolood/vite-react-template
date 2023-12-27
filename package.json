@@ -14,13 +14,14 @@
     "pre-commit": "lint-staged"
   },
   "dependencies": {
-    "@commitlint/config-conventional": "^18.4.3",
     "@vkontakte/vk-bridge": "^2.12.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@chakra-ui/react": "^2.8.2",
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@types/react": "^18.2.45",
